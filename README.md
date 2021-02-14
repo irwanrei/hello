@@ -1,3 +1,3 @@
 # hello
 This is for training purposes only.
-Web programming with Python and JavaScript
+CS 50 - Web programming with Python and JavaScript
